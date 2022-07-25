@@ -1,0 +1,14 @@
+.swPeople {
+  padding: 20px;
+}
+
+.swPeopleList {
+  width: 500px;
+  border-radius: 5px;
+  border: 1px solid #aaa;
+  box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+.swPeopleSearch {
+  margin: 20px;
+}
